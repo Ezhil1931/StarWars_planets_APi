@@ -1,0 +1,28 @@
+.buttons{
+    width: 100%;
+    
+
+display: flex;
+justify-content:space-around;
+padding: 4px;
+background: green;
+
+}
+.buttons button{
+
+    width: 50px;
+    padding: 5px;
+border: 0px;
+border-radius:10px;
+text-align: center;
+
+border-bottom: 5px solid red ;
+cursor: pointer;
+}
+
+
+
+
+.content{
+     width: 100vw;
+}
